@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+#### Performing analysis on Kickstarter data to uncover trends
 ----------------------------------------------------------
 ## An Analysis of Kickstarter Campaigns Overview
 #### The goal of this analysis was to find insights into the outcome of campaign strategies involving theatre based on the day they were launched and how that correlates to their success / failures
