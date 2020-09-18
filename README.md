@@ -18,7 +18,7 @@ Performing analysis on Kickstarter data to uncover trends
 #### From our analysis we have concluded that the best month to launch a theatre campaign is May or June
 ------------
 ### Findings based on Goals and Pledges
-#### The Goal amount for a successful campaign is $5,000 and the Pledged amount is $5,699
+#### The Goal amount for a successful campaign is maxed at $5,000 and the Pledged amount is maxed $5,699
 ---------
 ### Reccomendations Based on Findings
 #### The reccomendations based on the findings are to analyze outcomes of campaigns based on their ability to meet their goal of with the duration of their campaign, this provides insight into the best techniques for a successful campaign.
