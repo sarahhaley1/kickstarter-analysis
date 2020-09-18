@@ -10,7 +10,7 @@ Performing analysis on Kickstarter data to uncover trends
 ---------------------------------------------------------------------------------------------
 ### Descriptive Statistics based on Goal and Pledged amounts for the US kickstarter Campaigns Successes and Fails
 #### Finding the Measure of the spread of dataset. Finding the Mean and Median of Goals based on Success and Failures and comparing them to the upper quartiles of the dataset as well as the Standard Devation can give us an idea of the mean's distance from the center of the data. This was shown in the table of descriptive Statistics.
-![DescriptiveStats](Descriptivestats.png)
+![DescriptiveStats](descriptivestats.png)
 -----------------------------------------------------------------------------------
 ## Findings
 ---------------
