@@ -36,8 +36,7 @@
 
 ## Results
 
-#### One conclusion we were able to come to when analyzing the Outcomes based on Launch date was that the best month to launch a theatre campaign is May or June as seen in our chart, the peak outcome lies in May however, there is also a high number of successful campaigns in June. 
-Another conclusion we were able to draw form Outcomes based on Launch Dates was that launching a campaign in December would give you the lowest success rate. 
+#### One conclusion we were able to come to when analyzing the Outcomes based on Launch date was that the best month to launch a theatre campaign is May or June as seen in our chart, the peak outcome lies in May however, there is also a high number of successful campaigns in June. Another conclusion we were able to draw form Outcomes based on Launch Dates was that launching a campaign in December would give you the lowest success rate. 
 
 #### A conclusion drawn from Outcomes based on Goals was that in the range of $45,00 to $49,999 we have that plays are at 100 percent success rate and 0 percent failed rate. We also concluded that in each range of goals, there is a 0 percent canceled rate. 
 
