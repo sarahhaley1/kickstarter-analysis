@@ -24,7 +24,7 @@
 
 ### Analysis of Outcomes Based on Goals
 #### To visualize better the outcomes of campaigns based on their Goals of fundraised money we extracted data from the Kickstarter dataset and created a new spreadsheet with a range of Goal amounts as one column and then pulled the number of successful,  failed, and canceled PLAY campaigns in each range. From there we were able to take the percent of each outcome - successful, failed, and canceled in each range and created a chart including the percents against the range values. 
-![Outcome_vs_Goals](Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 
 
