@@ -20,11 +20,11 @@
 ### Analysis of Outcomes Based on Launch Date
 
 #### To visualize the outcomes based on launch date, a pivot table was created from the kickstarter dataset that included the parent category of the campaign type and the year of the launch as filters. We minimized the Parent Category filter to only select the theatre campaigns since this is what we were analyzing. The columns were the outcomes labeled - successful, failed, and canceled. The rows were the months the launch happened, so that we could compare the launch date to the outcome of the campaign. We see trends in the data that occur based on launch date. 
-![Outcome_vs_LaunchDate](resources/Theatre_Outcomes_vs_Launch.png)
+![Outcome_vs_LaunchDate](Resources/Theatre_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 #### To visualize better the outcomes of campaigns based on their Goals of fundraised money we extracted data from the Kickstarter dataset and created a new spreadsheet with a range of Goal amounts as one column and then pulled the number of successful,  failed, and canceled PLAY campaigns in each range. From there we were able to take the percent of each outcome - successful, failed, and canceled in each range and created a chart including the percents against the range values. 
-![Outcome_vs_Golas](resources/Outcomes_vs_Goals.png)
+![Outcome_vs_Golas](Resources/Outcomes_vs_Goals.png)
 
 
 
